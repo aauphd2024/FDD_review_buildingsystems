@@ -32,5 +32,9 @@ This file contains the following tabs:
 - Figures
     Contains many of the figures and CUSUM chart for the article
 
+------- Query_strings.xlsx -------
+Contains the queires for use in Scopus, Web of Science and Proquest
+
+
 
 
