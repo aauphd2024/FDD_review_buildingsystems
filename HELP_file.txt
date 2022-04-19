@@ -1,10 +1,14 @@
 This file is meant to explain the content of the different other files.
 
-Currently there are 2 files
+Currently there are 5 files 
 - Data.xlsx
 - Query_strings.xlsx
+- FDD_flowchart.vscx
+- Litterature_search_flowchart.vsdx
+- PRISMA_checklist_review.docx
 
-
+Currently there is 1 folder
+- World_map_plot
 
 ------ Data.xlsx ---------
 This file contains the following tabs:
@@ -35,6 +39,22 @@ This file contains the following tabs:
 ------- Query_strings.xlsx -------
 Contains the queires for use in Scopus, Web of Science and Proquest
 
+------- FDD_flowchart.vsdx ------
+Contains the flowchart figure for the FDD process
+Can be opened in Microsoft Visio
+
+------- Litterature_search_flowchart.vsdx -----
+Contains the flowchart figure for the litterature search process
+Can be opened in Microsoft Visio
+
+------- PRISMA_checklist_review.docx -------
+Contains the filled out PRISMA 2020 checklist
+
+
+------- World_map_plot folder -------
+Contains the files needed to reproduce the world map plot in the article.
+The main file to be run is "World_map_plot.py".
+The data file is "Data.xlsx" (the same as in the main folder on the repository).
 
 
 
