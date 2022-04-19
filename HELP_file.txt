@@ -1,13 +1,13 @@
 This file is meant to explain the content of the different other files.
 
-Currently there are 5 files 
+Currently there are 5 files in this repository
 - Data.xlsx
 - Query_strings.xlsx
 - FDD_flowchart.vscx
 - Litterature_search_flowchart.vsdx
 - PRISMA_checklist_review.docx
 
-Currently there is 1 folder
+Currently there is 1 folder in this repository
 - World_map_plot
 
 ------ Data.xlsx ---------
